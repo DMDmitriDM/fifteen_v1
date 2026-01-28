@@ -1,0 +1,12 @@
+/* ----------------- */
+/* --- media.css --- */
+/* ----------------- */
+
+/* 1 - 499 */
+
+@media (max-width: 499px) {
+  .box_target-div {
+    width: 284px;
+    height: 284px;
+  }
+}
